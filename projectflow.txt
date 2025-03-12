@@ -1,0 +1,5 @@
+git repo clone
+code in cde.py
+data saved as csv
+pip install dvc
+dvc init ( creates .dvcignore, .dvc)
